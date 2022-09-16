@@ -18,6 +18,12 @@
  ##
  
 <div>
- 
+ <a href="https://www.youtube.com/channel/UCsR09WAB2uVwYg_OFUoAVGw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/antoniogh2t/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/antonioafmenossi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/AntonioMenossi/AntonioMenossi/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
